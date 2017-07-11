@@ -1,7 +1,7 @@
 number=0
-5.times do
+100.times do
 number=number+1
- 	if number == 3
+ 	if number % 3 == 0
  	p "mined"
  	else p number
  end
