@@ -1,0 +1,29 @@
+git add . (hit enter)
+
+git status (hit enter)
+
+git commit -m "Detailed information about what you are pushing" (hit enter)
+
+git push origin master (hit enter)
+
+
+
+TO CHANGE DIRECTORY
+
+cd
+
+TO LIST ALL FILES
+
+ls
+
+TO GO UP A LEVEL
+
+git ..
+
+TO GO UP TWO LEVELS, ETC.
+
+git .. / ..
+
+TO TAKE YOU TO THE TOP LEVEL
+
+git 
